@@ -5,13 +5,13 @@
   </a>
 </p>
 <!-- Title -->
-<h1 align="center"><b>CS519.M11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
+<h1 align="center"><b>CS519.N11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
 
 ## GIỚI THIỆU MÔN HỌC
 
 - **Tên môn học:** PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
 - **Mã môn học:** CS519
-- **Mã lớp:** CS519.M11
+- **Mã lớp:** CS519.N11
 - **Năm học:** HK1 (2022 - 2023)
 - **Giảng viên:** **Lê Đình Duy** - *duyld@uit.edu.vn*
 

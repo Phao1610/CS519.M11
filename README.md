@@ -17,10 +17,10 @@
 
 ## GIỚI THIỆU NHÓM
 
-### Tên nhóm: PHP
+### Tên nhóm: THT
 
-| STT | Họ tên          | MSSV     | Vai trò    |
-| :-: | --------------- | -------- | ---------- |
-|  1  | Nguyễn Văn Toàn | 20522028 | Thành viên |
-|  2  | Phạm Tấn Tài    | 20521861 | Thành viên |
-|  3  | Lê Trọng Hảo    | 20520178 | Thành viên |
+| STT | Họ tên          | MSSV     | Vai trò     |
+| :-: | --------------- | -------- | ----------- |
+|  1  | Nguyễn Văn Toàn | 20522028 | Nhóm Trưởng |
+|  2  | Phạm Tấn Tài    | 20521861 | Thành viên  |
+|  3  | Lê Trọng Hảo    | 20520178 | Thành viên  |
